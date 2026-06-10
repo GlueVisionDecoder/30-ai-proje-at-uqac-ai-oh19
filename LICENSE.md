@@ -1,4 +1,4 @@
-# 
+# VIP 30+ AI Projects at UQAC plugins. Featuring deep-learning-models and predictive-analytics — optimized for maximum performance.
 
 
 
